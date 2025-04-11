@@ -103,8 +103,3 @@ GIMP (GNU Image Manipulation Program) to otwartoźródłowy edytor grafiki rastr
 * Nie wolno zmieniać licencji i rozpowszechniać GIMP-a na warunkach innych niż GPL v3.  
 * Wszelkie zmodyfikowane wersje muszą zachować informacje o oryginalnych autorach.  
 * Program nie jest objęty żadną gwarancją – użytkownicy korzystają z niego na własną odpowiedzialność.
-
-## **Podsumowanie**
-
-GIMP to potężne narzędzie do edycji grafiki, oferujące szeroki wachlarz funkcji i narzędzi porównywalnych do komercyjnych programów. Jego elastyczność, wsparcie dla skryptów i obsługa wtyczek sprawiają, że jest popularnym wyborem zarówno dla początkujących, jak i zaawansowanych użytkowników.
-
